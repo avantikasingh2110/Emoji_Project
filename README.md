@@ -1,2 +1,2 @@
 # Emoji Project
-[Cooming soon]
+[Coming soon 🫠]
