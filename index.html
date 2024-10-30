@@ -4,8 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Emoji Project</title>
+    <link rel="icon" href="./images/Favicon.png">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Dancing+Script:wght@400..700&family=Fuzzy+Bubbles:wght@400;700&family=Loved+by+the+King&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Prociono&family=Rubik+Wet+Paint&display=swap" rel="stylesheet">
 </head>
 <body>
-    😊 Emoji Project 😊
+    <div id="main_div">
+        <h1>😍 Emoji Finder 😍</h1>
+        <!-- <hr> -->
+        
+        <div id="option_div">
+            <button class="option_btn">All</button>
+            <button class="option_btn">Face</button>
+            <button class="option_btn">Heart</button>
+            <button class="option_btn">Book</button>
+            <button class="option_btn">Hand</button>
+            <button class="option_btn">Sports</button>
+            <button class="option_btn">Flag</button>
+            <input type="search" name="search" id="search_emoji" placeholder="Search Emoji....">
+        </div>
+
+        <div id="emoji_container"></div>
+    </div>
+
+    <script src="./emoji.js"></script>
+    <script src="./script.js"></script>
+
 </body>
 </html>
