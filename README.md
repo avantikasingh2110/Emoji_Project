@@ -5,7 +5,7 @@ Welcome to the Emoji Finder Project! 🌟 This project makes it easy to search, 
 
 [Click to find your favourite emoji 😍](https://avantikasingh2110.github.io/Emoji_Project/)
 
-<br><br>
+<br>
 
 ## 🚀 Features
 
