@@ -30,4 +30,9 @@ Welcome to the Emoji Finder Project! 🌟 This project makes it easy to search, 
 
 **2.** Open index.html in your preferred browser.
 
-**3.**Start finding and copying your favorite emojis!
+**3.** Start finding and copying your favorite emojis!
+
+## 📷 Preview
+
+### 📜 License
+This project is licensed under the MIT License.
