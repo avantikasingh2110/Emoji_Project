@@ -52,7 +52,7 @@ body {
         }
 
         #emoji_container {
-            font-size: 3rem;
+            font-size:3.5rem;
             padding: 3rem;
             display: flex;
             flex-wrap: wrap;
@@ -66,7 +66,7 @@ body {
 }
 
 .emoji_box {
-    font-size: 3rem;
+    font-size: 3.5rem;
     cursor: pointer;
     padding: 10px;
     /* background-color: #f1f1f1; */
