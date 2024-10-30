@@ -25,7 +25,6 @@ Welcome to the Emoji Finder Project! 🌟 This project makes it easy to search, 
 
 **1.** Clone this repository:
 
-       ```bash
        git clone https://github.com/YourUsername/EmojiFinder.git
 
 
